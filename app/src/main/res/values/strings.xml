@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Infirmary Medication Tracker</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_add_medication">AddMedication</string>
+    <string name="title_activity_symptoms">Symptoms</string>
+</resources>

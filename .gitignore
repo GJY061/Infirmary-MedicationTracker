@@ -1,0 +1,35 @@
+# Local configuration and credentials
+local.properties
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p12
+
+# IDE state and generated files
+.idea/
+.gradle/
+.kotlin/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.iml
+
+# Application packages
+*.apk
+*.aab
+*.apks
+
+# Local databases and backups
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+
+# Personal working notes
+AGENTS.md
+A3_UPGRADE_PLAN.md
+A3_BAND_B_UPGRADE_PLAN.md
+INTERVIEW_PREP.md
